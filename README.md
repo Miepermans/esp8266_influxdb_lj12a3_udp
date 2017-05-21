@@ -1,8 +1,8 @@
-===ESP8266 InfluxDB Data logger ( DHT22 Sensor ) ===
+===ESP8266 InfluxDB Data logger ( LJ12A3 Sensor ) ===
 
-This sketch can be used to create a data logger with a single DHT22 sensor from Adafruit.
+This sketch can be used to create a data logger with a single LJ12A3 sensor from Adafruit.
 
-In this latest release i made an upgrade, You can now fill in your variables via the WiFiManager ( on first boot ). Just connect to the SENSOR-DHT22-***** network and fill in all the fields.
+In this latest release i made an upgrade, You can now fill in your variables via the WiFiManager ( on first boot ). Just connect to the SENSOR-LJ12A3-***** network and fill in all the fields.
 
 If one field is missing, the device will become an AP again so you can change the values.
 
